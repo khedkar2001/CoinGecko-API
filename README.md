@@ -68,3 +68,14 @@ Start the app:
 
 npm run dev
 
+---
+👨‍💻 Author
+
+Saurabh Khedkar 
+
+Full Stack Web Developer | Pune, MH, India 
+
+📧 saurabhrkhedkar1707@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/saurabh-khedkar)  
+🐙 [GitHub](https://github.com/khedkar2001)  
+
